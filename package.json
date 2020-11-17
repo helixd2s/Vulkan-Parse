@@ -1,0 +1,19 @@
+{
+  "name": "vulkan-parse",
+  "version": "1.0.0",
+  "description": "Parsing Vulkan API XML by NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "helixd",
+  "license": "ISC",
+  "dependencies": {
+    "fast-xml-parser": "^3.17.4",
+    "he": "^1.2.0",
+    "ltx": "^2.10.0",
+    "pjxml": "^1.0.1",
+    "saxes": "^5.0.1",
+    "xml2js": "^0.4.23"
+  }
+}
